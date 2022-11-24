@@ -11,6 +11,10 @@ OR
 ```bash
 git clone git@github.com:MartimMadaleno/portfolio.git
 ```
+AND
+```bash
+npm install
+```
 
 ## Usage
 
